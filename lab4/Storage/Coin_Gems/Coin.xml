@@ -1,0 +1,10 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Сoin.png" transparentColor="">
+ <animation title="Coin" delay="150">
+  <cut w="14" x="1" y="0" h="16" row="1" col="1"/>
+  <cut w="10" x="19" y="0" h="16" row="1" col="1"/>
+  <cut w="6" x="37" y="0" h="16" row="1" col="1"/>
+  <cut w="10" x="51" y="0" h="16" row="1" col="1"/>
+  <cut w="13" x="65" y="0" h="16" row="1" col="1"/>
+ </animation>
+</sprites>

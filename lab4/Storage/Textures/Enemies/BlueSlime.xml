@@ -1,0 +1,35 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="AllAssetsPreview.png" transparentColor="3039">
+ <animation title="Bottom" delay="300">
+  <cut w="8" x="692" y="164" h="7" row="1" col="1"/>
+  <cut w="10" x="707" y="165" h="6" row="1" col="1"/>
+  <cut w="8" x="724" y="161" h="7" row="1" col="1"/>
+  <cut w="8" x="740" y="160" h="6" row="1" col="1"/>
+  <cut w="8" x="756" y="161" h="6" row="1" col="1"/>
+  <cut w="10" x="771" y="165" h="6" row="1" col="1"/>
+ </animation>
+ <animation title="Left" delay="300">
+  <cut w="8" x="692" y="180" h="7" row="1" col="1"/>
+  <cut w="10" x="707" y="181" h="6" row="1" col="1"/>
+  <cut w="8" x="724" y="177" h="7" row="1" col="1"/>
+  <cut w="8" x="740" y="176" h="6" row="1" col="1"/>
+  <cut w="8" x="756" y="177" h="6" row="1" col="1"/>
+  <cut w="10" x="771" y="181" h="6" row="1" col="1"/>
+ </animation>
+ <animation title="Right" delay="300">
+  <cut w="8" x="692" y="196" h="7" row="1" col="1"/>
+  <cut w="10" x="707" y="197" h="6" row="1" col="1"/>
+  <cut w="8" x="724" y="193" h="7" row="1" col="1"/>
+  <cut w="8" x="740" y="192" h="6" row="1" col="1"/>
+  <cut w="8" x="756" y="193" h="6" row="1" col="1"/>
+  <cut w="10" x="771" y="197" h="6" row="1" col="1"/>
+ </animation>
+ <animation title="Up" delay="300">
+  <cut w="8" x="692" y="212" h="7" row="1" col="1"/>
+  <cut w="10" x="707" y="213" h="6" row="1" col="1"/>
+  <cut w="8" x="724" y="209" h="7" row="1" col="1"/>
+  <cut w="8" x="740" y="208" h="6" row="1" col="1"/>
+  <cut w="8" x="756" y="209" h="6" row="1" col="1"/>
+  <cut w="10" x="771" y="213" h="6" row="1" col="1"/>
+ </animation>
+</sprites>

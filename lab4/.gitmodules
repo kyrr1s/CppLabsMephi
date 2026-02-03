@@ -1,0 +1,3 @@
+[submodule "GTESTS/--force"]
+	path = GTESTS/--force
+	url = https://github.com/google/googletest

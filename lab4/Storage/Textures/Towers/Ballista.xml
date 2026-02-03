@@ -1,0 +1,39 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="AllAssetsPreview.png" transparentColor="3039">
+ <animation title="Up" delay="300">
+  <cut w="16" x="192" y="192" h="16" row="1" col="1"/>
+  <cut w="16" x="208" y="192" h="16" row="1" col="1"/>
+  <cut w="16" x="224" y="192" h="16" row="1" col="1"/>
+  <cut w="16" x="240" y="195" h="13" row="1" col="1"/>
+  <cut w="16" x="256" y="195" h="13" row="1" col="1"/>
+  <cut w="16" x="272" y="195" h="13" row="1" col="1"/>
+  <cut w="16" x="288" y="195" h="13" row="1" col="1"/>
+ </animation>
+ <animation title="Bottom" delay="300">
+  <cut w="16" x="192" y="209" h="14" row="1" col="1"/>
+  <cut w="16" x="208" y="209" h="14" row="1" col="1"/>
+  <cut w="16" x="224" y="209" h="14" row="1" col="1"/>
+  <cut w="16" x="240" y="209" h="12" row="1" col="1"/>
+  <cut w="16" x="256" y="209" h="12" row="1" col="1"/>
+  <cut w="16" x="272" y="209" h="12" row="1" col="1"/>
+  <cut w="16" x="288" y="209" h="12" row="1" col="1"/>
+ </animation>
+ <animation title="Right" delay="300">
+  <cut w="16" x="192" y="225" h="15" row="1" col="1"/>
+  <cut w="16" x="208" y="225" h="15" row="1" col="1"/>
+  <cut w="12" x="274" y="240" h="14" row="1" col="1"/>
+  <cut w="13" x="240" y="225" h="15" row="1" col="1"/>
+  <cut w="13" x="256" y="225" h="15" row="1" col="1"/>
+  <cut w="13" x="272" y="225" h="15" row="1" col="1"/>
+  <cut w="13" x="288" y="225" h="15" row="1" col="1"/>
+ </animation>
+ <animation title="Left" delay="300">
+  <cut w="16" x="192" y="241" h="15" row="1" col="1"/>
+  <cut w="16" x="208" y="241" h="15" row="1" col="1"/>
+  <cut w="16" x="224" y="241" h="15" row="1" col="1"/>
+  <cut w="13" x="243" y="241" h="15" row="1" col="1"/>
+  <cut w="13" x="259" y="241" h="15" row="1" col="1"/>
+  <cut w="13" x="275" y="241" h="15" row="1" col="1"/>
+  <cut w="13" x="291" y="241" h="15" row="1" col="1"/>
+ </animation>
+</sprites>
